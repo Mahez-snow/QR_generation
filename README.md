@@ -17,5 +17,6 @@ A simple and customizable **Python QR Code Generator** that allows users to gene
 - qrcode library  
 
 ---
-
+## Interface
+- Streamlit 
 
